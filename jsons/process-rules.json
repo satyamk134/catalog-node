@@ -1,0 +1,31 @@
+{
+    "collection":"ProcessRules",
+    "data":[
+        {
+            "ruleType":"relational",
+            "rules":{
+                "copy":{
+                    "rule":"copy",
+                    "input":"",
+                    "output":""
+                },
+                "concat":{
+                    "rule":"concat",
+                    "input":[],
+                    "output":"",
+                    "seperator":""
+                }
+            }
+        },
+        
+        {
+            "ruleType":"IR",
+            "rules":{
+                "OCR":{},
+                "prediction":{},
+                "textReader":{}       
+            }
+        }
+    ]
+}
+

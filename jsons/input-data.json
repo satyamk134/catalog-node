@@ -1,0 +1,180 @@
+{
+    "collection":"input",
+    "data":[
+        {
+            "tmId":"1",
+            "images":"",
+            "splitBy":[{"attributeName":"category", "attributeValue":"shirt"}],
+            "data":{
+                 "slno":1,
+                 "category":"shirt",
+                 "gender":"men",
+                 "image1":"",
+                 "image2":"",
+                 "description":"",
+                 "color":""
+            }
+    
+        },
+        {
+    
+            "tmId":"2",
+            "images":"",
+            "splitBy":[{"attributeName":"category", "attributeValue":"shirt"}],
+            "data":{
+                 "slno":2,
+                 "category":"shirt",
+                 "gender":"men",
+                 "image1":"",
+                 "image2":"",
+                 "description":"",
+                 "color":""
+            }
+    
+        },
+        {
+    
+            "tmId":"3",
+            "images":"",
+            "splitBy":[{"attributeName":"category", "attributeValue":"shirt"}],
+            "data":{
+                 "slno":3,
+                 "category":"shirt",
+                 "gender":"men",
+                 "image1":"",
+                 "image2":"",
+                 "description":"",
+                 "color":""
+            }
+    
+        },
+        {
+    
+            "tmId":"4",
+            "images":"",
+            "splitBy":[{"attributeName":"category", "attributeValue":"shirt"}],
+            "data":{
+                 "slno":4,
+                 "category":"shirt",
+                 "gender":"men",
+                 "image1":"",
+                 "image2":"",
+                 "description":"",
+                 "color":""
+            }
+    
+        },
+        {
+    
+            "tmId":"5",
+            "images":"",
+            "splitBy":[{"attributeName":"category", "attributeValue":"shirt"}],
+            "data":{
+                 "slno":5,
+                 "category":"shirt",
+                 "gender":"men",
+                 "image1":"",
+                 "image2":"",
+                 "description":"",
+                 "color":""
+            }
+    
+        },
+        {
+    
+            "tmId":"6",
+            "images":"",
+            "splitBy":[{"attributeName":"category", "attributeValue":"pant"}],
+            "data":{
+                 "slno":6,
+                 "category":"pant",
+                 "gender":"men",
+                 "image1":"",
+                 "image2":"",
+                 "description":"",
+                 "color":""
+            }
+    
+        },
+        {
+    
+            "tmId":"7",
+            "images":"",
+            "splitBy":[{"attributeName":"category", "attributeValue":"pant"}],
+            "data":{
+                 "slno":7,
+                 "category":"pant",
+                 "gender":"men",
+                 "image1":"",
+                 "image2":"",
+                 "description":"",
+                 "color":""
+            }
+    
+        },
+        {
+    
+            "tmId":"8",
+            "images":"",
+            "splitBy":[{"attributeName":"category", "attributeValue":"pant"}],
+            "data":{
+                 "slno":8,
+                 "category":"pant",
+                 "gender":"men",
+                 "image1":"",
+                 "image2":"",
+                 "description":"",
+                 "color":""
+            }
+    
+        },
+        {
+    
+            "tmId":"9",
+            "images":"",
+            "splitBy":[{"attributeName":"category", "attributeValue":"pant"}],
+            "data":{
+                 "slno":9,
+                 "category":"pant",
+                 "gender":"men",
+                 "image1":"",
+                 "image2":"",
+                 "description":"",
+                 "color":""
+            }
+    
+        },
+        {
+    
+            "tmId":"10",
+            "images":"",
+            "splitBy":[{"attributeName":"category", "attributeValue":"pant"}],
+            "data":{
+                 "slno":10,
+                 "category":"pant",
+                 "gender":"men",
+                 "image1":"",
+                 "image2":"",
+                 "description":"",
+                 "color":""
+            }
+    
+        },
+        {
+    
+            "tmId":"11",
+            "images":"",
+            "splitBy":[{"attributeName":"category", "attributeValue":"pant"}],
+            "data":{
+                 "slno":11,
+                 "category":"shirt",
+                 "gender":"pant",
+                 "image1":"",
+                 "image2":"",
+                 "description":"",
+                 "color":""
+            }
+    
+        }
+    ]
+}

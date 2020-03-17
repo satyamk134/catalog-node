@@ -1,0 +1,28 @@
+{
+    "collection":"output",
+    "data":[
+        {  
+            "attributeName":"id",
+            "atributeValue":"",
+            "allowedValues":[],
+            "fileName":"myntra-output.xlsx",
+            "sheetName":"sheet1",
+            "clientName":"Mynra",
+            "category":"",
+            "optinalSplitAttrs":[]
+            
+        },
+        {
+    
+            "attributeName":"color",
+            "atributeValue":"",
+            "allowedValues":[],
+            "fileName":"myntra-output.xlsx",
+            "sheetName":"sheet1",
+            "clientName":"Mynra",
+            "category":"",
+            "optinalSplitAttrs":[]
+    
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "collection": "Template",
+    "data": [
+        {
+            "processId": "5e6cd988b5bbe309987a30cf",
+            "processType": "RELATIONAL",
+            "input": "slno",
+            "output": "id",
+            "rule": "copy",
+            "category":"shirts",
+            "clientName":"Myntra",
+            "optinalSplitAttrs":[],
+            "ruleParams": {
+                "operationFrom": "input",
+                "from": "slno",
+                "froms": []
+            }
+        }
+    ]
+}

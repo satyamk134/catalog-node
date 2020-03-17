@@ -1,0 +1,18 @@
+{
+    "collection":"Order",
+    "data":{
+        "clientId":"5c2e0e626074e672042f6b16",
+        "splittingAttribute":["category"],
+        "batches":[
+            { 
+                "splittedBy":{"category":"shirt"},
+                "count":5
+            },
+            { 
+                "splittedBy":{"category":"pant"},
+                "count":5
+            }
+        ]
+    }
+}
+
